@@ -1,4 +1,4 @@
-shinobigrids for Android Editable items in shinobigrids for Android – Part 1
+Creating custom columns with editable items in <b>shinobigrids</b> for Android - Part 1
 =====================
 
 Customize the columns in __shinobigrids__ for Android to contain editable text fields
